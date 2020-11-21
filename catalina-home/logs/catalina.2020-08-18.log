@@ -1,0 +1,439 @@
+18-Aug-2020 12:12:01.565 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:12:01.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:12:01.571 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:12:01.571 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:12:01.571 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:12:01.572 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13467:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:12:01.573 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:12:01.574 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:12:01.738 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:12:02.196 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:12:02.212 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1215 ms
+18-Aug-2020 12:12:02.262 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:12:02.263 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:12:02.289 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:12:02.767 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[476]æ¯«ç§åå®æ
+18-Aug-2020 12:12:02.768 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:12:02.876 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:12:02.876 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:12:02.884 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[116]æ¯«ç§åå®æ
+18-Aug-2020 12:12:02.884 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:12:02.955 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[71]æ¯«ç§åå®æ
+18-Aug-2020 12:12:02.956 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:12:03.041 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[85]æ¯«ç§åå®æ
+18-Aug-2020 12:12:03.041 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:12:03.120 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[78]æ¯«ç§åå®æ
+18-Aug-2020 12:12:03.123 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:12:03.134 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 921 ms
+18-Aug-2020 12:13:51.564 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:13:51.569 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:13:51.570 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13489:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:13:51.571 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:13:51.571 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:13:51.692 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:13:52.101 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:13:52.116 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 966 ms
+18-Aug-2020 12:13:52.156 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:13:52.156 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:13:52.175 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:13:52.599 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[421]æ¯«ç§åå®æ
+18-Aug-2020 12:13:52.599 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:13:52.700 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:13:52.701 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:13:52.707 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[108]æ¯«ç§åå®æ
+18-Aug-2020 12:13:52.707 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:13:52.766 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[59]æ¯«ç§åå®æ
+18-Aug-2020 12:13:52.767 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:13:52.848 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[81]æ¯«ç§åå®æ
+18-Aug-2020 12:13:52.849 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:13:52.919 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[71]æ¯«ç§åå®æ
+18-Aug-2020 12:13:52.922 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:13:52.932 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 816 ms
+18-Aug-2020 12:18:10.126 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:18:10.131 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:18:10.131 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:18:10.131 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:18:10.131 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:18:10.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:18:10.133 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:18:10.134 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13621:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:18:10.134 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:18:10.134 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:18:10.267 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:18:10.688 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:18:10.705 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1048 ms
+18-Aug-2020 12:18:10.739 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:18:10.739 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:18:10.763 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:18:11.193 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[426]æ¯«ç§åå®æ
+18-Aug-2020 12:18:11.194 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:18:11.283 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:18:11.284 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:18:11.290 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[96]æ¯«ç§åå®æ
+18-Aug-2020 12:18:11.290 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:18:11.360 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[70]æ¯«ç§åå®æ
+18-Aug-2020 12:18:11.360 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:18:11.444 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[84]æ¯«ç§åå®æ
+18-Aug-2020 12:18:11.444 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:18:11.516 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[72]æ¯«ç§åå®æ
+18-Aug-2020 12:18:11.518 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:18:11.529 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 823 ms
+18-Aug-2020 12:18:22.954 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:18:22.958 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:18:22.958 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:18:22.958 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:18:22.958 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:18:22.959 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:18:22.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13639:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:18:22.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:18:22.961 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:18:23.087 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:18:23.484 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:18:23.504 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1011 ms
+18-Aug-2020 12:18:23.541 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:18:23.541 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:18:23.557 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:18:23.995 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[434]æ¯«ç§åå®æ
+18-Aug-2020 12:18:23.995 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:18:24.091 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:18:24.092 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:18:24.097 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[102]æ¯«ç§åå®æ
+18-Aug-2020 12:18:24.097 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:18:24.170 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[73]æ¯«ç§åå®æ
+18-Aug-2020 12:18:24.171 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:18:24.252 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[81]æ¯«ç§åå®æ
+18-Aug-2020 12:18:24.253 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:18:24.309 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[56]æ¯«ç§åå®æ
+18-Aug-2020 12:18:24.312 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:18:24.324 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 820 ms
+18-Aug-2020 12:21:16.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:21:16.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:21:16.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:21:16.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:21:16.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:21:16.986 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:21:16.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:21:16.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13746:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:21:16.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:21:16.988 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:21:17.112 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:21:17.512 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:21:17.525 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 968 ms
+18-Aug-2020 12:21:17.558 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:21:17.558 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:21:17.573 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:21:17.959 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[384]æ¯«ç§åå®æ
+18-Aug-2020 12:21:17.960 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:21:18.053 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:21:18.054 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:21:18.063 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[102]æ¯«ç§åå®æ
+18-Aug-2020 12:21:18.063 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:21:18.130 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[67]æ¯«ç§åå®æ
+18-Aug-2020 12:21:18.130 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:21:18.199 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[69]æ¯«ç§åå®æ
+18-Aug-2020 12:21:18.200 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:21:18.258 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[59]æ¯«ç§åå®æ
+18-Aug-2020 12:21:18.260 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:21:18.272 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 746 ms
+18-Aug-2020 12:22:09.539 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:22:09.544 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13759:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 12:22:09.545 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 12:22:09.546 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 12:22:09.670 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 12:22:10.052 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 12:22:10.065 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 997 ms
+18-Aug-2020 12:22:10.101 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 12:22:10.102 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 12:22:10.117 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 12:22:10.528 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[408]æ¯«ç§åå®æ
+18-Aug-2020 12:22:10.529 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 12:22:10.629 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 12:22:10.630 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 12:22:10.638 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[109]æ¯«ç§åå®æ
+18-Aug-2020 12:22:10.638 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 12:22:10.713 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[75]æ¯«ç§åå®æ
+18-Aug-2020 12:22:10.713 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 12:22:10.786 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[73]æ¯«ç§åå®æ
+18-Aug-2020 12:22:10.787 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 12:22:10.844 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[57]æ¯«ç§åå®æ
+18-Aug-2020 12:22:10.847 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 12:22:10.858 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 792 ms
+18-Aug-2020 15:19:26.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 15:19:26.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 15:19:26.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 15:19:26.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 15:19:26.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 15:19:26.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 15:19:26.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13941:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 15:19:26.941 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 15:19:27.067 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 15:19:27.457 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 15:19:27.469 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1000 ms
+18-Aug-2020 15:19:27.507 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 15:19:27.507 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 15:19:27.522 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 15:19:27.955 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[430]æ¯«ç§åå®æ
+18-Aug-2020 15:19:27.955 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 15:19:28.055 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 15:19:28.055 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 15:19:28.062 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[107]æ¯«ç§åå®æ
+18-Aug-2020 15:19:28.062 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 15:19:28.131 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[69]æ¯«ç§åå®æ
+18-Aug-2020 15:19:28.131 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 15:19:28.196 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[65]æ¯«ç§åå®æ
+18-Aug-2020 15:19:28.196 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 15:19:28.248 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[52]æ¯«ç§åå®æ
+18-Aug-2020 15:19:28.252 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 15:19:28.261 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 791 ms
+18-Aug-2020 15:20:04.769 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 15:20:04.772 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 15:20:04.773 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 15:20:04.774 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 15:20:04.775 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 15:20:04.775 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=13959:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 15:20:04.775 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 15:20:04.775 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 15:20:04.893 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 15:20:05.281 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 15:20:05.294 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 998 ms
+18-Aug-2020 15:20:05.336 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 15:20:05.336 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 15:20:05.356 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 15:20:05.802 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[443]æ¯«ç§åå®æ
+18-Aug-2020 15:20:05.803 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 15:20:05.895 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 15:20:05.895 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 15:20:05.903 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[100]æ¯«ç§åå®æ
+18-Aug-2020 15:20:05.903 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 15:20:05.970 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[67]æ¯«ç§åå®æ
+18-Aug-2020 15:20:05.971 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 15:20:06.041 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[69]æ¯«ç§åå®æ
+18-Aug-2020 15:20:06.041 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 15:20:06.108 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[67]æ¯«ç§åå®æ
+18-Aug-2020 15:20:06.111 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 15:20:06.122 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 826 ms
+18-Aug-2020 15:22:47.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 15:22:47.895 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 15:22:47.895 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 15:22:47.895 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 15:22:47.895 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:22:47.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=14037:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 15:22:47.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 15:22:47.898 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 15:22:48.046 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 15:22:48.479 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 15:22:48.501 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1101 ms
+18-Aug-2020 15:22:48.543 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 15:22:48.543 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 15:22:48.559 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 15:22:49.085 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:22:49.122 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[561]æ¯«ç§åå®æ
+18-Aug-2020 15:22:49.122 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 15:22:49.380 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:22:49.403 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 15:22:49.404 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 15:22:49.412 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[290]æ¯«ç§åå®æ
+18-Aug-2020 15:22:49.412 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 15:22:49.547 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:22:49.556 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[143]æ¯«ç§åå®æ
+18-Aug-2020 15:22:49.556 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 15:22:49.700 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:22:49.703 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[146]æ¯«ç§åå®æ
+18-Aug-2020 15:22:49.703 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 15:22:49.813 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:22:49.814 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[111]æ¯«ç§åå®æ
+18-Aug-2020 15:22:49.817 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 15:22:49.826 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1325 ms
+18-Aug-2020 15:24:40.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 15:24:40.147 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 15:24:40.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=14094:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 15:24:40.149 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 15:24:40.272 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 15:24:40.651 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 15:24:40.663 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 973 ms
+18-Aug-2020 15:24:40.694 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 15:24:40.694 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 15:24:40.707 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 15:24:41.121 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[408]æ¯«ç§åå®æ
+18-Aug-2020 15:24:41.121 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 15:24:41.226 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 15:24:41.227 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 15:24:41.233 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[112]æ¯«ç§åå®æ
+18-Aug-2020 15:24:41.233 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 15:24:41.297 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[64]æ¯«ç§åå®æ
+18-Aug-2020 15:24:41.298 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 15:24:41.373 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[75]æ¯«ç§åå®æ
+18-Aug-2020 15:24:41.373 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 15:24:41.433 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[60]æ¯«ç§åå®æ
+18-Aug-2020 15:24:41.435 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 15:24:41.445 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 783 ms
+18-Aug-2020 15:25:06.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+18-Aug-2020 15:25:06.808 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·(:     @VERSION_NUMBER@
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Windows 10
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.0
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              amd64
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     C:\Program Files\Java\jdk1.8.0_231\jre
+18-Aug-2020 15:25:06.809 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_231-b11
+18-Aug-2020 15:25:06.810 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+18-Aug-2020 15:25:06.810 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:25:06.810 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\10952\Desktop\Java\tomcat\catalina-home
+18-Aug-2020 15:25:06.810 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.home=catalina-home
+18-Aug-2020 15:25:06.810 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dcatalina.base=catalina-home
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.endorsed.dirs=catalina-home/endorsed
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.io.tmpdir=catalina-home/temp
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\lib\idea_rt.jar=14130:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼-Dfile.encoding=UTF-8
+18-Aug-2020 15:25:06.811 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\jre64\\bin\server;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\backburner 2\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\web\apache-maven-3.5.4\bin;C:\web\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;%GRADLE_HOME%\bin;C:\Users\10952\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10952\AppData\Local\Programs\Python\Python36\;C:\Users\10952\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;C:\Users\10952\AppData\Roaming\npm;C:\Users\10952\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.4\bin;;.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+18-Aug-2020 15:25:06.962 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+18-Aug-2020 15:25:07.535 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Aug-2020 15:25:07.551 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1168 ms
+18-Aug-2020 15:25:07.590 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+18-Aug-2020 15:25:07.590 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+18-Aug-2020 15:25:07.603 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]
+18-Aug-2020 15:25:08.077 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:25:08.119 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\docs]çé¨ç½²å·²å¨[512]æ¯«ç§åå®æ
+18-Aug-2020 15:25:08.119 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]
+18-Aug-2020 15:25:08.345 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:25:08.366 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+18-Aug-2020 15:25:08.366 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+18-Aug-2020 15:25:08.376 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\examples]çé¨ç½²å·²å¨[257]æ¯«ç§åå®æ
+18-Aug-2020 15:25:08.376 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]
+18-Aug-2020 15:25:08.530 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:25:08.540 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\host-manager]çé¨ç½²å·²å¨[164]æ¯«ç§åå®æ
+18-Aug-2020 15:25:08.541 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]
+18-Aug-2020 15:25:08.689 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:25:08.692 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\manager]çé¨ç½²å·²å¨[150]æ¯«ç§åå®æ
+18-Aug-2020 15:25:08.692 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]
+18-Aug-2020 15:25:08.793 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+18-Aug-2020 15:25:08.795 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[C:\Users\10952\Desktop\Java\tomcat\catalina-home\webapps\ROOT]çé¨ç½²å·²å¨[103]æ¯«ç§åå®æ
+18-Aug-2020 15:25:08.797 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+18-Aug-2020 15:25:08.805 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1254 ms
